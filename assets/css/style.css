@@ -1,0 +1,13 @@
+.navbar {
+    font-family: 'Homemade Apple', cursive;
+}
+
+.navbar-collapse {
+    font-family: 'Averia Serif Libre', cursive;
+}
+
+.navbar-text {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
