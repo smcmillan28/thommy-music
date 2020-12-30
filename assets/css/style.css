@@ -1,5 +1,26 @@
+.body {
+    position: relative;
+    background-color: #eeee;
+}
+
 .navbar {
     font-family: 'Homemade Apple', cursive;
+}
+
+.container {
+    position: relative;
+    border-radius: 10px;
+    border: 3px solid black;
+    margin: 20px auto;
+    height: 100px;
+    width: 80%;
+    top: 70px;
+    background: linear-gradient(35deg, #ccffff, #ffcccc);
+}
+ 
+.container:hover {
+    transform: scale(1.01);
+    background: #ccffff;
 }
 
 .navbar-collapse {
